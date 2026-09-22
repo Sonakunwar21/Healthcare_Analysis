@@ -79,5 +79,5 @@ This Exploratory Data Analysis successfully validates that stroke occurrence is 
 
 ## 👤 Author
 
-**Shraddha Bisht**  
+**Sona Kunwar**  
 *Data Scientist*
